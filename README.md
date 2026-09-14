@@ -121,6 +121,3 @@ the Jacobian is 22 × 22, and dense LU on that is not measurable.
   voltage sensitivity to injection, which is free information the solver
   currently throws away.
 
-## License
-
-MIT.
